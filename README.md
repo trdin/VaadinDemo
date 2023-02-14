@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/89972475/218681996-841a55d2-4b18-43fa-89c5-8220f4654ffd.png)
+
 # Flow CRM Tutorial
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
