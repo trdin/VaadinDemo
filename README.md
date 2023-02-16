@@ -64,3 +64,8 @@ Once the Docker image is correctly built, you can test it locally using
 ```
 docker run -p 8080:8080 flowcrmtutorial:latest
 ```
+
+Prewiev : 
+
+![image](https://user-images.githubusercontent.com/89972475/219227606-d2bedbc7-b088-4d11-8cb2-08ddfc7d2da9.png)
+
